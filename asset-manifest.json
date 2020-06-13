@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jamesonkanakulya/firstProject.git/static/css/main.6e09a407.chunk.css",
+    "main.js": "/Jamesonkanakulya/firstProject.git/static/js/main.07fc0184.chunk.js",
+    "main.js.map": "/Jamesonkanakulya/firstProject.git/static/js/main.07fc0184.chunk.js.map",
+    "runtime-main.js": "/Jamesonkanakulya/firstProject.git/static/js/runtime-main.e22890f9.js",
+    "runtime-main.js.map": "/Jamesonkanakulya/firstProject.git/static/js/runtime-main.e22890f9.js.map",
+    "static/js/2.de28c021.chunk.js": "/Jamesonkanakulya/firstProject.git/static/js/2.de28c021.chunk.js",
+    "static/js/2.de28c021.chunk.js.map": "/Jamesonkanakulya/firstProject.git/static/js/2.de28c021.chunk.js.map",
+    "index.html": "/Jamesonkanakulya/firstProject.git/index.html",
+    "precache-manifest.6428dce85bdc044bf11abdd07c6a2bc6.js": "/Jamesonkanakulya/firstProject.git/precache-manifest.6428dce85bdc044bf11abdd07c6a2bc6.js",
+    "service-worker.js": "/Jamesonkanakulya/firstProject.git/service-worker.js",
+    "static/css/main.6e09a407.chunk.css.map": "/Jamesonkanakulya/firstProject.git/static/css/main.6e09a407.chunk.css.map",
+    "static/js/2.de28c021.chunk.js.LICENSE.txt": "/Jamesonkanakulya/firstProject.git/static/js/2.de28c021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e22890f9.js",
+    "static/js/2.de28c021.chunk.js",
+    "static/css/main.6e09a407.chunk.css",
+    "static/js/main.07fc0184.chunk.js"
+  ]
+}
